@@ -1,1 +1,1 @@
-# CSc-47300-CS50-Assignment-2
+# CSc-47300-Assignment-2
