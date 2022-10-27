@@ -43,6 +43,11 @@ class Calculator {
             this.pythonLogic = this.pythonLogic + '/'
             console.log(this.pythonLogic)
         }
+        else if (op == '%'){
+            this.userEnter = this.userEnter.toString() + op.toString()
+            this.pythonLogic = this.pythonLogic + '* .01'
+            console.log(this.pythonLogic)
+        }
         else{
             this.userEnter = this.userEnter.toString() + op.toString() 
             this.pythonLogic = this.pythonLogic + op.toString() 
