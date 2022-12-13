@@ -1,1 +1,2 @@
-# CSc-47300-Assignment-2
+# Google inspired Calculator using JavaScript and CSS
+
