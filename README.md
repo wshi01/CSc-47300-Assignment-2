@@ -4,14 +4,14 @@
 
 Uses HTML, CSS, and JS. 
 
-##Bugs
+## Bugs
 
 1. ! does not work 
 2. ln does not work 
 3. EXP does not work 
 4. Deg does not work 
 
-##Update
+## Update
 
 Google clone using React fixed those problems. 
 Only Deg/Rad bug support does not exist. 
